@@ -1,0 +1,12 @@
+Info: Processing symbol 'InputProbe1:Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J1:842821B1RKTR'.
+Info: Processing symbol 'OutputProbe1:Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'SMA-in1:Connector_Coaxial:SMA_Amphenol_901-144_Vertical'.
+Info: Processing symbol 'SMA-out1:Connector_Coaxial:SMA_Amphenol_901-144_Vertical'.
+Info: Total warnings: 0, errors: 1.
+
+
+Error: Cannot update J1 (footprint '842821B1RKTR' not found).
+
+
+Info: Total warnings: 0, errors: 1.

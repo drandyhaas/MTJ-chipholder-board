@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 8428-21B1-RK-TR
+D Conn PLCC Socket SKT 28 POS 1.27mm Solder ST SMD T/R
+K
+F https://multimedia.3m.com/mws/media/358814O/3mtm-chip-carrier-sockets-4-row-sm-8400-series-ts2147.pdf
+$ENDCMP
+#
+#End Doc Library
